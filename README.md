@@ -1,4 +1,4 @@
-# hotel-proa
+# Hotel-Proa
 # Plataforma Modular para Gestão Interna de Hotel
 
 Este projeto é um sistema modular desenvolvido para facilitar a gestão interna de hotéis. Ele é voltado exclusivamente para uso por funcionários, permitindo que diversas funcionalidades sejam acessadas e gerenciadas de forma organizada e eficiente. Utilizando o conceito de **software modulado**, cada funcionalidade é implementada como um módulo independente, facilitando manutenção e expansão.
